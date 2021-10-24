@@ -1,4 +1,5 @@
 # Edited & Modified: Jaime S.
+# Team Members: Noah Martinez, Leikisha Larry, Jaime Salcedo.
 # 10/23/2021
 
 print("Please choose what you would like to do from the list below:")
